@@ -1,0 +1,95 @@
+/* My html is black in color. */
+html {
+  color: black;
+}
+/* My head is black in color. */
+head {
+  color: black;
+}
+/* My meta is black in color. */
+meta {
+  color: black;
+}
+/* My title is black in color. */
+title {
+  color: black;
+}
+/* My links are black in color. */
+link {
+  color: black;
+}
+/* My body is black in color */
+body {
+  color: black;
+}
+/* My nav is black in color and the font-size is 20px making the letter visible. */
+nav {
+  color: black;
+  font-size: 20px;
+}
+/* My ul is blue in color for the eye to see and my padding-left is 325px. */
+ul {
+  color: blue;
+  padding-left: 325px;
+}
+/* My li is black in color. */
+li {
+  color: black;
+}
+/* My image is black in color, font-size is 100px, my width is 100px, my justify-content is center and my padding-left is 500px. */
+img {
+  color: black;
+  font-size: 100px;
+  width: 100px;
+  justify-content: center;
+  padding-left: 500px;
+}
+/* My jpg padding-left is 250px. */
+.jpg {
+  padding-left: 250px;
+}
+/* My h1 color is black, my font-size is 80px and my padding-left is 250px for wisible eye sight. */
+h1 {
+  color: black;
+  font-size: 80px;
+  padding-left: 250px;
+}
+/* My h2 is black in color , padding-left is 250px and font-size is 50px for visible eye sight. */
+h2 {
+  color: black;
+  padding-left: 250px;
+  font-size: 50px;
+}
+/* My h3 is black in color , padding-left is 250px and my font-size is 30pz for visible eye sight. */
+h3 {
+  color: black;
+  padding-left: 250px;
+  font-size: 30px;
+}
+/* My main color is black in color. */
+main {
+  color: black;
+}
+/* My div is black in color. */
+div {
+  color: black;
+}
+/* My section is black in color */
+section {
+  color: black;
+}
+/* My p is black in color, max-width is 65, padding-left is 250px and my font-size is 20px for visible eye sight. */
+p {
+  color: black;
+  max-width: 65ch;
+  padding-left: 250px;
+  font-size: 20px;
+}
+/* My footer is black in color. */
+footer {
+  color: black;
+}
+/* My address is black in color. */
+address {
+  color: black;
+}
