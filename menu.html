@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="menu.css" />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <!-- Beginning of the list items here. -->
+          <li><a href="index.html">Index.</a></li>
+          <li><a href="about.html">About.</a></li>
+          <li><a href="forms.html">Forms.</a></li>
+          <li><a href="menu.html">Menu.</a></li>
+          <li><a href="gallery.html">Gallery.</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <!-- Div container for building tables with fixed size -->
+      <div id="table1">
+        <h1>Menu 1:</h1>
+        <!--Tables with fixed size -->
+        <table style="width: 1425px">
+          <caption>
+            Coffee Menu
+          </caption>
+          <!--Table header-->
+          <thead>
+            <!-- Tables row for the header -->
+            <tr>
+              <th>Coffee Drinks</th>
+              <th>Sizes & Prices</th>
+            </tr>
+          </thead>
+          <!-- Table body -->
+          <tbody>
+            <!-- Table row for the body-->
+            <tr>
+              <!-- Table data cell -->
+              <td>Black Roast</td>
+              <td>Small:$3.15-Medium:$3.50-Grande:$4.00-Venti:$4.50</td>
+            </tr>
+            <tr>
+              <td>Caffe Americano</td>
+              <td>Small:$3.25-Medium:$3.60-Grande:$4.10-Venti:$4.60</td>
+            </tr>
+            <tr>
+              <td>Caffe Misto</td>
+              <td>Small:$3.20-Medium:$3.55-Grande:$4.05-Venti:$4.55</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <hr />
+      <!-- Div container for building responsive tables -->
+      <div id="tables2">
+        <h2>Menu 2:</h2>
+        <!-- Responsive table that adjusts its width based on its parent container's width -->
+        <table style="width: 100%">
+          <caption>
+            Coffee & Espresso
+          </caption>
+          <!-- Table header -->
+          <thead>
+            <!-- Table row for the header -->
+            <tr>
+              <th>Coffee & Espresso</th>
+              <th>Sizes & Prices</th>
+            </tr>
+          </thead>
+          <!-- Table body -->
+          <tbody>
+            <!-- Table row for the body -->
+            <tr>
+              <!-- Table data cell -->
+              <td>Espresso Macchiato</td>
+              <td>Small:$3.15-Medium:$3.50-Grande:$4.00-Venti:$4.55</td>
+            </tr>
+            <tr>
+              <td>Pike Place</td>
+              <td>Small:$2.15-Medium:$2.65-Grande:$3.05-Venti:$3.75</td>
+            </tr>
+            <tr>
+              <td>Featured Dark Roast</td>
+              <td>Small:$2.10-Medium:$2.35-Grande:$2.75-Venti:$3.75</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <hr />
+      <!-- Div container for building responsive tables with merged cells -->
+      <div id="table3">
+        <h2>Menu 3:</h2>
+        <!-- Responsive table with merged cells -->
+        <table style="width: 100%">
+          <caption>
+            Cold Coffee & Espresso
+          </caption>
+          <!-- Table header -->
+          <thead>
+            <!-- Table row for the header -->
+            <tr>
+              <th rowspan="2">Cold Coffee & Espresso</th>
+              <!-- Header cell that spans two rows vertically -->
+              <th colspan="2">Prices</th>
+              <!-- Header cell that spans two columns horizontally -->
+            </tr>
+            <tr>
+              <th>Sizes and prices</th>
+              <th>Cream Foam</th>
+            </tr>
+          </thead>
+          <!-- Table body -->
+          <tbody>
+            <!-- Table row for the body -->
+            <tr>
+              <!-- Table data cell -->
+              <td>Cold Brew</td>
+              <td>Small:$3.00-Medium:$3.60-Grande:$4.50-Venti:$5.75</td>
+              <td>$0.60</td>
+            </tr>
+            <tr>
+              <td>Pumpkin Cream Cold Brew</td>
+              <td>Small:$3.75-Medium:$4.10-Grande:$5.50-Venti:$6.45</td>
+              <td>$0.60</td>
+            </tr>
+            <tr>
+              <td>Vanilla Protein Cream Cold Brew</td>
+              <td>Small:$3.95-Medium:$4.30-Grande:$5.60-Venti:$7.25</td>
+              <td>$0.60</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </main>
+    <footer>
+      <address>
+        <p>
+          &copy; Copyright 2023 About Starbusks:
+          <a href="https://about.starbucks.com/">Linkin</a>
+        </p>
+      </address>
+    </footer>
+  </body>
+</html>
