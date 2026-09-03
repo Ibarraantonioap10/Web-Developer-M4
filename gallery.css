@@ -1,0 +1,105 @@
+/* html color is black */
+html {
+  color: black;
+}
+/* My head will contain black as color and the font-size will be 100px. */
+head {
+  color: black;
+  font-size: 100px;
+}
+/* My meta color will be black and the font-size will be 60px. */
+meta {
+  color: black;
+  font-size: 60px;
+}
+/* My title will black in color and the font-size will be 60px. */
+title {
+  color: black;
+  font-size: 60px;
+}
+/* My link will be black in color. */
+link {
+  color: black;
+}
+/* The body will be black in color. */
+body {
+  color: black;
+}
+/* The header will be black in color and the font-size will be 100px to make it bigger for visible eye site. */
+header {
+  color: black;
+  font-size: 100px;
+}
+/* My nav will be black in color. */
+nav {
+  color: black;
+}
+/* My ul will be have black in color. */
+ul {
+  color: black;
+}
+li {
+  /* My li will have green in color and the font-size will be 30px making the dots visible. */
+  color: green;
+  font-size: 30px;
+}
+/* My a will have green in color and my font-size will be 50px maing visible for eye-sight. */
+a {
+  color: green;
+  font-size: 50px;
+}
+/* My h1 will be black in color and the font-size will be 40px to make it bigger for visible eye-sight. */
+h1 {
+  color: black;
+  font-size: 40px;
+}
+h2 {
+  /* My h2 will be black in color and the font-size will be 40px to make it bigger for visible eye-sight. */
+  color: black;
+  font-size: 40px;
+} /* My h3 will be black in color and the font-size will be 40px to make it bigger for visible eye-sight.*/
+h3 {
+  color: black;
+  font-size: 40px;
+}
+/* My h4 will be black in color and the font-size will be 40px to make it bigger for visible eye-sight. */
+h4 {
+  color: black;
+  font-size: 40px;
+}
+/* My h5 will be black in color and the fon-size will be 40px to make it bigger for visible eye-sight. */
+h5 {
+  color: black;
+  font-size: 40px;
+}
+/* My main will be black as a color and the font-size will be 20px making it visible for eye-sight. */
+main {
+  color: black;
+  font-size: 20px;
+}
+/* My section will be black in color. */
+section {
+  color: black;
+}
+/* My div color will be black in color */
+div {
+  color: black;
+}
+/* My image will have the font-size 20px, my background- color will be aquamarine, my width will be
+    80px and my hight will be 110px making it visible for eye-sight. */
+img {
+  font-size: 2%0px;
+  background-color: white;
+  width: 80px;
+  height: 110px;
+}
+/* My p will be green in color and the font-size will be 20px making visible for eye-sight. */
+p {
+  color: green;
+  font-size: 20px;
+}
+/* My footer will be black in color and the font-size will be 20px making visible for eye-sight. */
+footer {
+  color: black;
+  font-size: 20px;
+}

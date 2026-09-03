@@ -36,6 +36,10 @@ ul {
 li {
   color: black;
 }
+/* My a is green in color */
+a {
+  color: green;
+}
 /* My image is black in color, font-size is 100px, my width is 100px, my justify-content is center and my padding-left is 500px. */
 img {
   color: black;
@@ -54,15 +58,15 @@ h1 {
   font-size: 80px;
   padding-left: 250px;
 }
-/* My h2 is black in color , padding-left is 250px and font-size is 50px for visible eye sight. */
+/* My h2 is green in color , padding-left is 250px and font-size is 50px for visible eye sight. */
 h2 {
-  color: black;
+  color: green;
   padding-left: 250px;
   font-size: 50px;
 }
-/* My h3 is black in color , padding-left is 250px and my font-size is 30pz for visible eye sight. */
+/* My h3 is green in color , padding-left is 250px and my font-size is 30pz for visible eye sight. */
 h3 {
-  color: black;
+  color: green;
   padding-left: 250px;
   font-size: 30px;
 }

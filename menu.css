@@ -72,6 +72,10 @@ th {
 td {
   border: 1px solid black;
   padding: 8px;
+  color: green;
+}
+a {
+  color: green;
 }
 /* My tbody is black in color. */
 tbody {
