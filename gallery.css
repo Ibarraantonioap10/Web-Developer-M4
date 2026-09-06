@@ -43,10 +43,10 @@ li {
   color: green;
   font-size: 30px;
 }
-/* My a will have green in color and my font-size will be 50px maing visible for eye-sight. */
+/* My a will have green in color and my font-size will be 20px maing visible for eye-sight. */
 a {
   color: green;
-  font-size: 50px;
+  font-size: 20px;
 }
 /* My h1 will be black in color and the font-size will be 40px to make it bigger for visible eye-sight. */
 h1 {
@@ -102,4 +102,8 @@ p {
 footer {
   color: black;
   font-size: 20px;
+}
+/* My address is black in color. */
+address {
+  color: black;
 }

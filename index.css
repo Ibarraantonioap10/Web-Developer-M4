@@ -52,21 +52,21 @@ img {
 .jpg {
   padding-left: 250px;
 }
-/* My h1 color is black, my font-size is 80px and my padding-left is 250px for wisible eye sight. */
+/* My h1 color is green, my font-size is 80px and my padding-left is 250px for wisible eye sight. */
 h1 {
-  color: black;
+  color: green;
   font-size: 80px;
   padding-left: 250px;
 }
-/* My h2 is black in color , padding-left is 250px and font-size is 50px for visible eye sight. */
+/* My h2 is green in color , padding-left is 250px and font-size is 50px for visible eye sight. */
 h2 {
-  color: black;
+  color: green;
   padding-left: 250px;
   font-size: 50px;
 }
-/* My h3 is black in color , padding-left is 250px and my font-size is 30pz for visible eye sight. */
+/* My h3 is green in color , padding-left is 250px and my font-size is 30pz for visible eye sight. */
 h3 {
-  color: black;
+  color: green;
   padding-left: 250px;
   font-size: 30px;
 }
